@@ -1,0 +1,34 @@
+object Form1: TForm1
+  Left = 332
+  Height = 547
+  Top = 250
+  Width = 866
+  Caption = 'Form1'
+  ClientHeight = 547
+  ClientWidth = 866
+  OnCreate = FormCreate
+  object Button1: TButton
+    Left = 376
+    Height = 25
+    Top = 472
+    Width = 128
+    Caption = 'YAML ---> JSON'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Memo1: TMemo
+    Left = 27
+    Height = 424
+    Top = 31
+    Width = 405
+    TabOrder = 1
+  end
+  object Memo2: TMemo
+    Left = 448
+    Height = 424
+    Top = 31
+    Width = 405
+    OnChange = Memo2Change
+    TabOrder = 2
+  end
+end
