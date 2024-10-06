@@ -1,5 +1,5 @@
 # ParserTools
-YAML and JSON parser, serializer and deserializer tool with pure Object Pascal source code for both Delphi and Lazarus
+YAML and JSON parser, serializer and deserializer tools with pure Object Pascal source code for both Delphi and Lazarus
 
 ### Remastered and rewritten version originally based on a work by
   1. Joao Costa, costate@sapo.pt https://github.com/joao-m-costa/delphi-yaml-to-json
