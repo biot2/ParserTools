@@ -9,6 +9,6 @@ YAML and JSON parser, serializer and deserializer with YAML to JSON and vice ver
 This library requires parts of [Ararat Synapse socket library](http://www.ararat.cz/synapse/) to compile.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Release](https://shields.io/badge/Prerelease-v1.0-blue?style=flat)](https://github.com/biot2/Yaml.Json.Parser/releases/tag/v1.0-pre)
+[![Release](https://shields.io/badge/Release-v1.0-blue?style=flat)](https://github.com/biot2/Yaml.Json.Parser/releases/tag/v1.0)
 [![Language](https://img.shields.io/badge/Language-Object%20Pascal-darkgreen)](https://en.wikipedia.org/wiki/Object_Pascal)
 
