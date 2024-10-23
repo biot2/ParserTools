@@ -16,7 +16,7 @@
 |   https://github.com/LuWey/TextContainer                                     |
 |                                                                              |
 | Project download homepage:                                                   |
-|   https://github.com/biot2/ParserTools                                       |
+|   https://github.com/biot2/Yaml.Json.Parser                                  |
 |                                                                              |
 | History:                                                                     |
 |   2024-10-05                                                                 |
